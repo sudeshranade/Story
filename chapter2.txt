@@ -1,2 +1,6 @@
 This is chapter 2
 Branch chdkjs kjslkjfsd
+
+other added a line 
+keep old lines
+
